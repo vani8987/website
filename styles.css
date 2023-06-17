@@ -1,0 +1,33 @@
+h1 {
+    background: red;
+}
+
+.paragraf-gb{
+    background: rgb(29, 5, 253);
+    font-size: 32pt;
+    color: rgb(0, 128, 0);
+}
+
+.paragraf-2{
+    background: gray;
+    border-radius: 5px;
+    background-color: brown;
+    font-size: 24pt;
+    width: 50%;
+}
+
+.paragraf-3{
+    background: rgb(0, 17, 255);
+    border-radius: 10px;
+    background-color: rgb(255, 0, 0);
+    font-size: 24px;
+    width: 50%;
+    text-align: center;
+}
+
+
+.div-1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20pt;
+    margin-left: 60px;
+}
